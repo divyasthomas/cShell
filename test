@@ -1,0 +1,14 @@
+theme red
+print testing script
+pwd
+log
+$d=5
+print val d: $d
+theme green
+$ff
+theme
+log
+$d=8
+ggh
+print val d: $d
+exit
